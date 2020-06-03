@@ -1,5 +1,4 @@
 # farmstand-flask-api
-flask API
 
 Project deployed -- https://farmstand-fresh.herokuapp.com/
 
